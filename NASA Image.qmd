@@ -1,0 +1,13 @@
+---
+title: "NASA APOD Image"
+format: pdf
+editor: visual
+---
+
+```{r}
+
+library(knitr)
+
+include_graphics()
+
+```
